@@ -1,0 +1,9 @@
+.p-2:hover{
+    background-color: royalblue;
+    color: white; 
+}
+
+.active{
+    background-color: royalblue;
+    color: white;
+}
